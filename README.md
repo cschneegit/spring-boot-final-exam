@@ -22,10 +22,11 @@ die Rollen und Säulen eines Mitarbeiters zu aktualisieren.
 
 - Java 19
 
-- Spring Boot
+- Spring Boot für Backend
+
+- React Framework für Frontend
 
 - PostgreSQL
-
 
 ## Features
 
