@@ -3,7 +3,7 @@
 
 ## Beschreibung
 
-Kurze Erklärung, was das Projekt macht und welches Problem es löst.
+Mein Abschlussprojekt, was ich im Januar 2024 präsentierte vor der Handelskammer bzw ihren Vertretern
 
 
 ## Technologien
