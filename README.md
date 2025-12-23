@@ -25,7 +25,6 @@ Mein Abschlussprojekt, was ich im Januar 2024 präsentierte vor der Handelskamme
 ## Installation / Start
 
 - Spring Initializer
-- 
 
 
 ## Was ich gelernt habe
