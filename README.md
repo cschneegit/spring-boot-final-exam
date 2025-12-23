@@ -18,6 +18,8 @@ Mein Abschlussprojekt, was ich im Januar 2024 präsentierte vor der Handelskamme
 ## Features
 
 - Rollenverwaltung
+- RESTful API
+- Annotations
 
 
 ## Installation / Start
